@@ -14,6 +14,9 @@
 
 </div>
 
+<div align="center">
+  <img src="https://github.com/JasonAlva/JasonAlva/blob/output/github-contribution-grid-snake.svg" alt='img-py'>
+</div>
 <!--
 **JasonAlva/JasonAlva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
