@@ -1,6 +1,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) 
 
-## Hi there 👋
+## Hey 👋
+I am trying to code
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonAlva&show_icons=true&theme=radical)
