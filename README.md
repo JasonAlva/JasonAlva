@@ -3,6 +3,15 @@
 ## Hey 👋
 I am trying to code
 
+<div>
+<div width="50%">
+  
+## Hey 👋
+I am trying to code
+  <div>
+<img width="50%" height="270" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt='img-com' align=right>
+</div>
+
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonAlva&show_icons=true&theme=radical)
 
