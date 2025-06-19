@@ -1,7 +1,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) 
 
 ## Hey 👋
-I am trying to code
+Always learning, always building.
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonAlva&show_icons=true&theme=radical)
