@@ -3,6 +3,10 @@
 ## Hey 👋
 Always learning, always building.
 
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,mongodb,prisma,fastapi,firebase,js,nodejs,redux,react,nextjs,c,cpp,py,sklearn)](https://skillicons.dev)
+
 ## 📊 GitHub Stats
 
 <div class="badges-githubstats">
@@ -12,9 +16,7 @@ Always learning, always building.
   </p>
 </div>
 
-## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,mongodb,prisma,fastapi,firebase,js,nodejs,redux,react,nextjs,c,cpp,py,sklearn)](https://skillicons.dev)
 
 ## Social Media
 &nbsp;<div align="center">
