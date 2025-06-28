@@ -2,6 +2,8 @@
 
 ## Hey I'm Jason 👋
 Always learning, always building.
+
+
 &nbsp; <div>
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jason-alva/)
 <div/>
@@ -29,15 +31,6 @@ Always learning, always building.
   </p>
 </div>
 
-
-
-## Social Media
-&nbsp;<div align="center">
-  
-  
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)]()
-
-</div>
 
 <div align="center">
   <img src="https://github.com/JasonAlva/JasonAlva/blob/output/github-contribution-grid-snake.svg" alt='img-py'>
