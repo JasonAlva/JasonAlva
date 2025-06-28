@@ -5,7 +5,11 @@ Always learning, always building.
 
 ## Skills🥷
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,mongodb,prisma,fastapi,firebase,js,nodejs,redux,react,nextjs,c,cpp,py,sklearn)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,mongodb,prisma,fastapi,firebase,js,nodejs,redux,react,nextjs,c,cpp,py,sklearn" />
+  </a>
+</p>
 
 
 
