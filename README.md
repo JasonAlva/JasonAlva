@@ -3,6 +3,8 @@
 ## Hey I'm Jason 👋
 Always learning, always building.
 
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jason-alva/)
+
 ## Skills🥷
 
 <p align="center">
@@ -29,7 +31,7 @@ Always learning, always building.
 ## Social Media
 &nbsp;<div align="center">
   
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jason-alva/)
+  
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)]()
 
 </div>
