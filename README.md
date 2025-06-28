@@ -4,7 +4,6 @@
 Always learning, always building.
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonAlva&show_icons=true&theme=radical)
 
 <br>
 <p align="center">
