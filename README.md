@@ -1,11 +1,13 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) 
 
-## Hey 👋
+## Hey I'm Jason 👋
 Always learning, always building.
 
-## Skills
+## Skills🥷
+<div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,mongodb,prisma,fastapi,firebase,js,nodejs,redux,react,nextjs,c,cpp,py,sklearn)](https://skillicons.dev)
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,mongodb,prisma,fastapi,firebase,js,nodejs,redux,react,nextjs,c,cpp,py,sklearn)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
