@@ -22,8 +22,8 @@ Always learning, always building.
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JasonAlva&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JasonAlva&theme=radical&hide_border=true" alt="Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=JasonAlva&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="50%" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JasonAlva&theme=radical&hide_border=true" alt="Streak" width="50%" height="165">
   </p>
 </div>
 
