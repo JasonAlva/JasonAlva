@@ -10,7 +10,7 @@ Always learning, always building.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,mongodb,prisma,fastapi,firebase,js,nodejs,redux,react,nextjs,c,cpp,py,sklearn" />
+    <img src="https://skillicons.dev/icons?i=arduino,mongodb,prisma,fastapi,firebase,ts,js,nodejs,redux,react,nextjs,c,cpp,py,sklearn" />
   </a>
 </p>
 
